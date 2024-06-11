@@ -1,0 +1,53 @@
+
+Table 1: N
+Dep. Variable:,Valor Desembolsado em Reais,  R-squared (uncentered):,   0.168
+Model:,OLS,  Adj. R-squared (uncentered):,   0.165
+Method:,Least Squares,  F-statistic:       ,   47.48
+Date:,"Wed, 29 May 2024",  Prob (F-statistic):,1.46e-254
+Time:,08:34:31,  Log-Likelihood:    ,-1.3453e+05
+No. Observations:,  7079,  AIC:               ,2.691e+05
+Df Residuals:,  7049,  BIC:               ,2.693e+05
+Df Model:,    30,                     , 
+Covariance Type:,nonrobust,                     , 
+
+
+Table 2: o
+,coef,std err,t,P>|t|,[0.025,0.975]
+Contribuição do UF ao PIB Nacional (%),-4.749e+08, 8.38e+07,   -5.667, 0.000,-6.39e+08,-3.11e+08
+Proporção do Valor Setorial ao PIB do UF, 2.258e+06, 2.67e+06,    0.846, 0.398,-2.97e+06, 7.49e+06
+UF_Alagoas, 5.866e+06, 1.98e+07,    0.296, 0.767, -3.3e+07, 4.47e+07
+UF_Amazonas, 4.025e+07, 8.29e+06,    4.856, 0.000,  2.4e+07, 5.65e+07
+UF_Bahia, 3.447e+07, 5.96e+06,    5.784, 0.000, 2.28e+07, 4.62e+07
+UF_Ceará, 1.581e+07, 4.81e+06,    3.291, 0.001, 6.39e+06, 2.52e+07
+UF_Espírito Santo, 2.824e+07, 5.76e+06,    4.902, 0.000, 1.69e+07, 3.95e+07
+UF_Goiás, 1.443e+07,  1.2e+07,    1.208, 0.227,-8.99e+06, 3.79e+07
+UF_Mato Grosso, 1.623e+07, 9.85e+06,    1.647, 0.100,-3.09e+06, 3.55e+07
+UF_Mato Grosso do Sul, 2.881e+06, 2.54e+07,    0.114, 0.910,-4.69e+07, 5.26e+07
+UF_Minas Gerais, 6.223e+07,  8.3e+06,    7.500, 0.000,  4.6e+07, 7.85e+07
+UF_Paraná, 4.124e+07, 6.23e+06,    6.618, 0.000,  2.9e+07, 5.35e+07
+UF_Paraíba, 2.646e+07, 1.71e+07,    1.548, 0.122,-7.04e+06, 5.99e+07
+UF_Pará, 1.217e+07, 1.19e+07,    1.026, 0.305,-1.11e+07, 3.54e+07
+UF_Pernambuco, 1.618e+07,  5.6e+06,    2.891, 0.004, 5.21e+06, 2.71e+07
+UF_Piauí, 6.901e+06, 1.66e+07,    0.415, 0.678,-2.57e+07, 3.95e+07
+UF_Rio Grande do Norte, 1.312e+07,  7.9e+06,    1.660, 0.097,-2.37e+06, 2.86e+07
+UF_Rio Grande do Sul, 3.894e+07, 6.33e+06,    6.150, 0.000, 2.65e+07, 5.13e+07
+UF_Rio de Janeiro, 8.003e+07, 1.09e+07,    7.313, 0.000, 5.86e+07, 1.01e+08
+UF_Rondônia, 1.636e+06,  1.5e+07,    0.109, 0.913,-2.79e+07, 3.11e+07
+UF_Santa Catarina, 2.963e+07, 4.76e+06,    6.230, 0.000, 2.03e+07,  3.9e+07
+UF_Sergipe, 6.866e+06, 2.31e+07,    0.297, 0.767,-3.85e+07, 5.22e+07
+UF_São Paulo, 1.802e+08, 2.83e+07,    6.377, 0.000, 1.25e+08, 2.36e+08
+UF_Tocantins,-2.433e+06, 2.64e+07,   -0.092, 0.926,-5.41e+07, 4.92e+07
+Setor CNAE_COMERCIO E SERVICOS, 9.308e+05, 4.51e+06,    0.206, 0.836,-7.91e+06, 9.77e+06
+Setor CNAE_INDUSTRIA DE TRANSFORMAÇÃO, 3.955e+06,  3.6e+06,    1.099, 0.272, -3.1e+06,  1.1e+07
+Setor CNAE_INDUSTRIA EXTRATIVA,-2.885e+06, 1.31e+07,   -0.220, 0.826,-2.86e+07, 2.28e+07
+Porte do cliente_MICRO,-1.699e+07, 6.36e+06,   -2.673, 0.008,-2.95e+07,-4.53e+06
+Porte do cliente_MÉDIA, -1.65e+07, 1.42e+06,  -11.642, 0.000,-1.93e+07,-1.37e+07
+Porte do cliente_PEQUENA,-1.616e+07,  4.6e+06,   -3.514, 0.000,-2.52e+07,-7.14e+06
+
+
+Table 3: t
+Omnibus:,16220.160,  Durbin-Watson:     ,   1.749
+Prob(Omnibus):, 0.000,  Jarque-Bera (JB):  ,202014222.996
+Skew:,21.792,  Prob(JB):          ,    0.00
+Kurtosis:,829.433,  Cond. No.          ,    199.
+

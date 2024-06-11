@@ -1,0 +1,52 @@
+
+Table 1: N
+Dep. Variable:,Valor Desembolsado em Reais,  R-squared:         ,   0.279
+Model:,OLS,  Adj. R-squared:    ,   0.277
+Method:,Least Squares,  F-statistic:       ,   97.65
+Date:,"Wed, 29 May 2024",  Prob (F-statistic):,  0.00
+Time:,13:35:15,  Log-Likelihood:    , -11809.
+No. Observations:,  7080,  AIC:               ,2.368e+04
+Df Residuals:,  7051,  BIC:               ,2.387e+04
+Df Model:,    28,                     , 
+Covariance Type:,nonrobust,                     , 
+
+
+Table 2: o
+,coef,std err,t,P>|t|,[0.025,0.975]
+const,   15.9139,    0.914,   17.406, 0.000,   14.122,   17.706
+UF_Alagoas,   -0.4681,    1.075,   -0.435, 0.663,   -2.576,    1.640
+UF_Amazonas,    0.5828,    0.934,    0.624, 0.533,   -1.248,    2.413
+UF_Bahia,   -0.1061,    0.917,   -0.116, 0.908,   -1.904,    1.691
+UF_Ceará,   -0.5546,    0.914,   -0.607, 0.544,   -2.346,    1.237
+UF_Espírito Santo,   -0.3153,    0.918,   -0.343, 0.731,   -2.115,    1.484
+UF_Goiás,   -0.9297,    0.968,   -0.960, 0.337,   -2.827,    0.968
+UF_Mato Grosso,   -1.0378,    0.950,   -1.093, 0.274,   -2.899,    0.824
+UF_Mato Grosso do Sul,   -1.3492,    1.173,   -1.150, 0.250,   -3.649,    0.951
+UF_Minas Gerais,    0.1467,    0.911,    0.161, 0.872,   -1.639,    1.933
+UF_Paraná,   -0.5823,    0.910,   -0.640, 0.523,   -2.367,    1.203
+UF_Paraíba,    0.0907,    1.031,    0.088, 0.930,   -1.930,    2.112
+UF_Pará,   -1.4028,    0.968,   -1.450, 0.147,   -3.300,    0.494
+UF_Pernambuco,   -0.9607,    0.918,   -1.046, 0.296,   -2.761,    0.840
+UF_Piauí,   -0.4695,    1.017,   -0.462, 0.644,   -2.463,    1.524
+UF_Rio Grande do Norte,   -0.7533,    0.935,   -0.806, 0.421,   -2.586,    1.080
+UF_Rio Grande do Sul,   -0.5366,    0.910,   -0.590, 0.555,   -2.320,    1.246
+UF_Rio de Janeiro,   -0.0115,    0.915,   -0.013, 0.990,   -1.805,    1.782
+UF_Rondônia,   -0.9456,    0.996,   -0.950, 0.342,   -2.897,    1.006
+UF_Santa Catarina,   -0.5379,    0.910,   -0.591, 0.554,   -2.322,    1.246
+UF_Sergipe,   -0.7320,    1.113,   -0.658, 0.511,   -2.914,    1.450
+UF_São Paulo,   -0.1248,    0.909,   -0.137, 0.891,   -1.907,    1.658
+UF_Tocantins,   -1.6653,    1.173,   -1.419, 0.156,   -3.966,    0.635
+Setor CNAE_COMERCIO E SERVICOS,   -0.2687,    0.125,   -2.150, 0.032,   -0.514,   -0.024
+Setor CNAE_INDUSTRIA DE TRANSFORMAÇÃO,    0.2860,    0.099,    2.886, 0.004,    0.092,    0.480
+Setor CNAE_INDUSTRIA EXTRATIVA,   -0.2714,    0.387,   -0.700, 0.484,   -1.031,    0.488
+Porte do cliente_MICRO,   -2.5298,    0.188,  -13.476, 0.000,   -2.898,   -2.162
+Porte do cliente_MÉDIA,   -1.7200,    0.042,  -41.073, 0.000,   -1.802,   -1.638
+Porte do cliente_PEQUENA,   -2.3845,    0.136,  -17.540, 0.000,   -2.651,   -2.118
+
+
+Table 3: t
+Omnibus:, 0.257,  Durbin-Watson:     ,   1.468
+Prob(Omnibus):, 0.879,  Jarque-Bera (JB):  ,   0.233
+Skew:, 0.012,  Prob(JB):          ,   0.890
+Kurtosis:, 3.016,  Cond. No.          ,    423.
+

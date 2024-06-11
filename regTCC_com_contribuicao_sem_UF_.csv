@@ -1,0 +1,31 @@
+
+Table 1: N
+Dep. Variable:,Valor Desembolsado em Reais,  R-squared (uncentered):,   0.157
+Model:,OLS,  Adj. R-squared (uncentered):,   0.156
+Method:,Least Squares,  F-statistic:       ,   164.3
+Date:,"Wed, 29 May 2024",  Prob (F-statistic):,4.24e-255
+Time:,13:23:47,  Log-Likelihood:    ,-1.3458e+05
+No. Observations:,  7079,  AIC:               ,2.692e+05
+Df Residuals:,  7071,  BIC:               ,2.692e+05
+Df Model:,     8,                     , 
+Covariance Type:,nonrobust,                     , 
+
+
+Table 2: o
+,coef,std err,t,P>|t|,[0.025,0.975]
+Contribuição do UF ao PIB Nacional (%), 3.194e+07,  4.5e+06,    7.095, 0.000, 2.31e+07, 4.08e+07
+Proporção do Valor Setorial ao PIB do UF, 1.867e+06, 1.87e+06,    0.999, 0.318, -1.8e+06, 5.53e+06
+Setor CNAE_COMERCIO E SERVICOS, 1.047e+07, 2.97e+06,    3.531, 0.000, 4.66e+06, 1.63e+07
+Setor CNAE_INDUSTRIA DE TRANSFORMAÇÃO, 1.427e+07, 1.26e+06,   11.297, 0.000, 1.18e+07, 1.67e+07
+Setor CNAE_INDUSTRIA EXTRATIVA, 8.486e+06, 1.27e+07,    0.670, 0.503,-1.63e+07, 3.33e+07
+Porte do cliente_MICRO,-1.666e+07, 6.34e+06,   -2.625, 0.009,-2.91e+07,-4.22e+06
+Porte do cliente_MÉDIA, -1.66e+07,  1.4e+06,  -11.901, 0.000,-1.93e+07,-1.39e+07
+Porte do cliente_PEQUENA,-1.487e+07, 4.57e+06,   -3.255, 0.001,-2.38e+07,-5.91e+06
+
+
+Table 3: t
+Omnibus:,16229.752,  Durbin-Watson:     ,   1.729
+Prob(Omnibus):, 0.000,  Jarque-Bera (JB):  ,203759766.106
+Skew:,21.820,  Prob(JB):          ,    0.00
+Kurtosis:,833.003,  Cond. No.          ,    25.0
+

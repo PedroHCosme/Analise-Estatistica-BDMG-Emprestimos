@@ -1,0 +1,10 @@
+0,1,2,3
+Dep. Variable:,Valor Desembolsado em Reais,R-squared (uncentered):,0.998
+Model:,OLS,Adj. R-squared (uncentered):,0.997
+Method:,Least Squares,F-statistic:,1875.0
+Date:,"Tue, 28 May 2024",Prob (F-statistic):,0.0
+Time:,08:13:13,Log-Likelihood:,-7845.0
+No. Observations:,7080,AIC:,18440.0
+Df Residuals:,5704,BIC:,27890.0
+Df Model:,1376,,
+Covariance Type:,nonrobust,,
